@@ -1,10 +1,13 @@
-# ImageProcessing
+# Image Processing Activities 🐣 👋🏻
 
-This repo is for my Image Processing CMPE362 lecture. You can run in Google Colab. 
-Outputs are available in the docs.
+<h2> 🚀 This repo is for my Image Processing CMPE362 lecture - Hands On Activities. 
+You can run in Google Colab directly. 
+Outputs are available in the .ipynb files.</h2>
+
+Here is the topics of activities:
 
 Activity-1 : Prepare and submit a Jupyter Notebook containing the code and
-the result for reading and displaying an image that you choose
+the result for reading and displaying an image that you choose.
 
 Activity-2: Prepare and submit a Jupyter Notebook file containing the codes and the results for: • Reading a colored RGB image that you choose and
 displaying its R, G and B channels.
