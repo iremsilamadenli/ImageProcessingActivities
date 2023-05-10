@@ -44,7 +44,7 @@ Compute Fast Fourier Transform of the gray scale image and visualize its
 magnitude by using log transform (logarithm of 1 + its absolute value).
 Shift the FFT of the image to the center and visualize its magnitude by using log
 transform (logarithm of 1 + its absolute value).
- At this point, you should see the reason for shifting FFT to the center before
+-> At this point, you should see the reason for shifting FFT to the center before
 visualization (it becomes easier to see the low frequency details).
 Inverse the shifting using ifftshift.
 Convert back the image from the Fourier domain to the spatial domain using
@@ -52,4 +52,4 @@ Inverse Fast Fourier Transform.
 Check and see that the image remains the same (after conversion from the spatial
 domain to the frequency domain and back from the frequency domain to the spatial
 domain).
- Actually, the maximum of the absolute differences should be around 10^-13
+-> Actually, the maximum of the absolute differences should be around 10^-13
