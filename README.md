@@ -38,7 +38,7 @@ binary image.
 • Apply dilation and erosion operations using a
 structuring element that you choose
 
-Activity-5:
+Activity-6:
 Read an image of your choice and convert it into gray-scale image and display it.
 Compute Fast Fourier Transform of the gray scale image and visualize its
 magnitude by using log transform (logarithm of 1 + its absolute value).
