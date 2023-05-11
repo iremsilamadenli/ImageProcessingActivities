@@ -56,3 +56,12 @@ Check and see that the image remains the same (after conversion from the spatial
 domain to the frequency domain and back from the frequency domain to the spatial
 domain).
 -> Actually, the maximum of the absolute differences should be around 10^-13
+
+Activity-7:
+Read an image of your choice.
+• Convert the image into gray scale image and
+display it.
+• Detect edges in the image using Canny edge
+detector.
+• Try two different sets of parameters where
+threshold1 varies only.
